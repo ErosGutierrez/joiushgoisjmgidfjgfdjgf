@@ -10,7 +10,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         
-        Tile a = new Tile("eros");
+        Tile a = new Tile("erosggfgf");
         
         Player player = new Player(); 
     }
